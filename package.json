@@ -31,7 +31,7 @@
     "geojson2h3": "^1.1.1",
     "h3-js": "^3.7.2",
     "javascript-time-ago": "^2.3.8",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mapbox-gl": "2.7.0",
     "next": "^12.1.0",
     "node-fetch": "^3.2.0",
